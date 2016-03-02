@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="textFragment1">Fragmento1</string>
+    <string name="textFragment2">Fragmento2</string>
+
+    <string name="app_name">Itinerario</string>
+
+
+    <!-- Main-->
+    <string name="agregarLocalizacion">Agregar nueva Localización</string>
+    <string name="agregarNota">Agregar nueva Nota</string>
+    <!-- Campos de nueva localizacion-->
+    <string name="provincia">Provincia</string>
+    <string name="nombre">Nombre</string>
+    <string name="zona">Zona</string>
+    <string name="tipo">Tipo</string>
+
+    <!-- botones-->
+    <string name="guardar">Añadir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="borrar">Borrar</string>
+
+    <!-- Campos de nueva nota-->
+    <string name="numero">Número de ejemplares</string>
+    <string name="especie">Especie</string>
+    <string name="extra">Info extra</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
